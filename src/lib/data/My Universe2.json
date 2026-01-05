@@ -1,0 +1,32 @@
+{
+  "id": "universe-1",
+  "name": "My Universe",
+  "worlds": [
+    {
+      "id": "world-1",
+      "name": "World 1",
+      "description": "",
+      "rooms": [
+        {
+          "id": "gfdgd",
+          "name": "fgf",
+          "description": "",
+          "x": 100,
+          "y": 100,
+          "width": 150,
+          "height": 100
+        },
+        {
+          "id": "gfd",
+          "name": "gfdg",
+          "description": "",
+          "x": 1005.6607338842973,
+          "y": 665.5156694214875,
+          "width": 150,
+          "height": 100
+        }
+      ],
+      "doors": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "universe-1",
+  "name": "My Universe",
+  "worlds": [
+    {
+      "id": "world-1",
+      "name": "World 1",
+      "rooms": [
+        {
+          "id": "1",
+          "name": "Level 1",
+          "x": 1726.4132231404951,
+          "y": 1875.3190082644624,
+          "width": 150,
+          "height": 100,
+          "description": "This room is the first room with a bunch of stuff in it"
+        },
+        {
+          "id": "2",
+          "name": "Level 2",
+          "x": 2543.013957759411,
+          "y": 1278.2411386593203,
+          "width": 150,
+          "height": 100
+        },
+        {
+          "id": "3",
+          "name": "Level 3",
+          "x": 2760.4991735537183,
+          "y": 809.0446280991735,
+          "width": 150,
+          "height": 100
+        },
+        {
+          "id": "4",
+          "name": "Level 4",
+          "description": "",
+          "x": 160,
+          "y": 160,
+          "width": 150,
+          "height": 100
+        }
+      ],
+      "doors": [
+        {
+          "id": "door-1767651635492",
+          "roomId1": "2",
+          "roomId2": "1",
+          "side1": "left",
+          "side2": "right"
+        },
+        {
+          "id": "door-1767651666907",
+          "roomId1": "3",
+          "roomId2": "1",
+          "side1": "left",
+          "side2": "right"
+        },
+        {
+          "id": "door-1767653080525",
+          "roomId1": "1",
+          "roomId2": "4",
+          "side1": "top",
+          "side2": "bottom"
+        }
+      ],
+      "description": "This world is a barren wasteland"
+    }
+  ]
+}
